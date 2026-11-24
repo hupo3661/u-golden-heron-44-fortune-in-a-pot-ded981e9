@@ -18,7 +18,7 @@ One original fortune for a houseplant on the windowsill, written by a small dete
 python3 main.py
 ```
 
-Prints the fortune and writes it (115 characters) to `/output/entry.txt`.
+Prints the fortune and writes it (115 characters) to `/output/entry.txt`. For a local run without a writable `/output`, use `python3 main.py --output entry.txt`.
 
 ---
 
